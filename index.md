@@ -5,6 +5,7 @@ Hello!This is my code diary.With a relatively solid professional knowledge in ma
 ### 个人信息   Personal information
 
 ## 研究领域  major
+AI for science
 In Memory Computing
 
 CUDA
@@ -51,7 +52,7 @@ Graphics Algorithm Engineer
 
 IMECAS
 
-In Memory Computing  Engineer
+Chip fabrication  Engineer
 ### Hobbies
 *swimming  
 
