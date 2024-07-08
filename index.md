@@ -1,11 +1,11 @@
 ## Welcome to my GitHub Pages
 
-Hello!This is my code diary.With a relatively solid professional knowledge in mathematical physics and coding . I previously majored in Artificial Intelligence. Recently,my research turns to the In Memory Computing . I learn relative knowledge by myself and try to realize some simple function(such as accelerate the computation), I have strong aspiration to develop in this field.Sometimes I will upload some simple example about engineering in my major field or something amateur.
+Hello!This is my code diary.With a relatively solid professional knowledge in mathematical physics and coding . I previously majored in Artificial Intelligence. Recently,my research turns to the Semiconductor physics mechanism analysis . I learn relative knowledge by myself and try to realize some simple simulation(such as Feelectric Polarization and Phase transaction), I have strong aspiration to develop in this field.Sometimes I will upload some simple example about engineering in my major field or something amateur.
 
 ### 个人信息   Personal information
 
 ## 研究领域  major
-AI for science
+AI for science(Semiconductor physics mechanism analysis)
 In Memory Computing
 
 CUDA
@@ -24,15 +24,9 @@ Graphics
 
 2020-2023   Tsinghua University   Automation
 ## 工作经历  work experience
-2021 03-2021 06
+2021 03-2021 09
 
 Food Safety Cloud 
-
-Algorithm Engineer
-
-2021.06.10-2021.09.10  
-
-Fifth Academy of Aerospace Engineering    
 
 Algorithm Engineer
 
